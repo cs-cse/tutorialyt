@@ -7,7 +7,9 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final imageUrl =
-        "https://sm.mashable.com/t/mashable_in/help/1/101-places/101-places-to-find-amazing-royalty-free-images-for-your-busi_nhxs.2496.jpg";
+        "https://thumbs.dreamstime.com/z/businessman-icon-image-male-avatar-profile-vector-glasses-beard-hairstyle-179728610.jpg";
+
+    // "https://sm.mashable.com/t/mashable_in/help/1/101-places/101-places-to-find-amazing-royalty-free-images-for-your-busi_nhxs.2496.jpg";
 
     return Drawer(
       child: Container(
